@@ -35,7 +35,7 @@
       width: 150px;
       background: #fff;
       border-right: 2px solid #ddd;
-      padding: 20px;
+      padding: 15px;
       position: fixed;
       top: 60px;
       bottom: 50px;
