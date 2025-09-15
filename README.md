@@ -63,7 +63,7 @@
 
     /* Main content */
     .main {
-      margin-left: 250px;
+      margin-left: 150px;
       padding: 25px;
     }
     .main h1 {
