@@ -32,7 +32,7 @@
 
     /* Sidebar */
     .sidebar {
-      width: 150px;
+      width: 1000px;
       background: #fff;
       border-right: 2px solid #ddd;
       padding: 15px;
