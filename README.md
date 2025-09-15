@@ -50,7 +50,7 @@
       padding: 0;
     }
     .sidebar ul li {
-      margin: 12px 0;
+      margin: 10px 0;
       padding: 8px;
       border-radius: 6px;
       cursor: pointer;
@@ -63,7 +63,7 @@
 
     /* Main content */
     .main {
-      margin-left: 100px;
+      margin-left: 120px;
       padding: 25px;
     }
     .main h1 {
