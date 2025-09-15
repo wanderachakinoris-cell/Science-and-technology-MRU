@@ -133,7 +133,7 @@
   <!-- Main section -->
   <div class="main">
     <h1>Faculty of Science and Technology</h1>
-    <h2>Muteesa Royal University</h2>
+    <h2>Muteesa 1 Royal University</h2>
     <p>Below is a table containing simple course data:</p>
 
     <table>
@@ -167,7 +167,7 @@
 
   <!-- Footer -->
   <footer>
-    &copy; <span id="year"></span> Muteesa Royal 1 University 
+    &copy; <span id="year"></span> Muteesa 1 Royal University 
   </footer>
 
   <script>
